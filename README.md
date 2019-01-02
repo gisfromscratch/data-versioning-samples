@@ -1,2 +1,2 @@
 # data-versioning-samples
-Simple samples uisng data versioning control.
+Simple samples using data versioning control.
